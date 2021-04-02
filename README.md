@@ -1,9 +1,5 @@
 # Workout-Tracker
 
-
-
-
-
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
@@ -17,7 +13,7 @@
 An application that helps you track your daily workouts. View create and track daily workouts, log multiple exercises in a workout on a given day. 
 
 ## Installation Instructions
-Clone or download the repository, and install node.js, npm install with dependencies.
+Clone or download the repository, and install npm install.
 
 ## Usage
  This app uses a Mongo database, Mongoose shcema and Express.  
@@ -55,18 +51,3 @@ Github: https://github.com/elphinhote/Budget-TrackApp/
 Deployed App: https://budtracking.herokuapp.com/
 
 
-# Workout-Tracker
-# Unit 17 NoSQL Homework: Workout Tracker
-
-For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
-
-## Installation
-
-Open up the root directory in your terminal. "Npm i" to install packages. 
-
-## Contributors
-* Aldo Vibanco - https://github.com/alvivanco85
-
-## Links
-* Github Repo - https://github.com/alvivanco85/Workout_Tracker
-* Heroku app - https://hidden-sands-45687.herokuapp.com/
