@@ -1,4 +1,5 @@
-# budget-tracking
+# Workout-Tracker
+
 
 
 
@@ -13,8 +14,7 @@
 * [Questions](#questions)
 
 ## Description
-The Budget Tracker application allows for offline access and functionality.
-The purpose and function is to show how to add expenses and deposits to the budget tracker with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+An application that helps you track your daily workouts. 
 
 ## Installation Instructions
 Clone or download the repository, and install node.js, npm install with dependencies.
@@ -91,9 +91,7 @@ To deploy an application with a MongoDB database to Heroku, you'll need to set u
 
   * [Deploy with Heroku and MongoDB Atlas](../04-Important/MongoAtlas-Deploy.md)
 
-# Workout_Tracker
 
-An application that helps you track your daily workouts. 
 
 # Table of Contents
 1. [User Story](#User-Story)
