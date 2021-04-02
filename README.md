@@ -23,7 +23,7 @@ Clone or download the repository, and install node.js, npm install with dependen
  This app uses a Mongo database, Mongoose shcema and Express.  
 
 
-![Budget App](https://user-images.githubusercontent.com/65749636/111860866-91deb480-8907-11eb-8fd9-e81daf2a8468.PNG)
+![image](https://user-images.githubusercontent.com/65749636/113373801-7ff60c00-9320-11eb-9eb6-4ca87278e955.png)
 
 
 ## Technologies Used
