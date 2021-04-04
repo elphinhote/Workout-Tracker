@@ -11,13 +11,13 @@
 * [Questions](#questions)
 
 ## Description
-An application that helps you track your daily workouts. View create and track daily workouts, log multiple exercises in a workout on a given day. 
+An application that helps you track your daily workouts. View create and track daily workouts. 
 
 ## Installation Instructions
-Clone or download the repository, and install npm install.
+Clone or download the repository, and npm install Express, Mongoose, Nodemon.js. Deploy with Heroku.
 
 ## Usage
- This app uses a Mongo database, Mongoose schema and Express.  
+ This app uses a Mongo database, Mongoose and Express.  
  
 ![image](https://user-images.githubusercontent.com/65749636/113497736-866cbb00-94bb-11eb-8dbd-1640bc658b0d.png)
  
