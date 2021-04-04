@@ -19,6 +19,8 @@ Clone or download the repository, and install npm install.
 ## Usage
  This app uses a Mongo database, Mongoose schema and Express.  
  
+![image](https://user-images.githubusercontent.com/65749636/113497736-866cbb00-94bb-11eb-8dbd-1640bc658b0d.png)
+ 
 ![image](https://user-images.githubusercontent.com/65749636/113497625-cd0de580-94ba-11eb-8f42-2cd027aec28a.png)
 
 ![image](https://user-images.githubusercontent.com/65749636/113373801-7ff60c00-9320-11eb-9eb6-4ca87278e955.png)
